@@ -1,4 +1,6 @@
 # Impulse_Response
 IR data files
 
-- IR_Crimson_near_Fhole_TransientShaped_2500Hz_13KHz.wav　Stradi Crimson Symphony (Semi acoustic bass)
+- Stradi_Crimson_24bit_441KHz.wav　Stradi Crimson Symphony (Semi acoustic bass)
+- Buccus_HJFreaks_Sig1_24bit_441KHz.wav H.J.Freaks Signature 1st model (Headless w/Stainless String)
+- Taylor_Big_Baby_24bit_441KHz.wav (Small size acoustic guitar)
